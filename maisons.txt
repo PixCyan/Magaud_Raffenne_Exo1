@@ -1,0 +1,16 @@
+F,Maison1,100,50;
+N,Maison2,500,300;
+R,Maison3,250,150;
+F,Maison4,150,80;
+F,Maison5,50,20;
+N,Maison6,600,350;
+R,Maison7,300,200;
+F,Maison8,50,30;
+N,Maison9,450,250;
+R,Maison10,200,120;
+R,Maison11,180,80;
+F,Maison12,100,60;
+F,Maison13,80,20;
+N,Maison14,600,250;
+R,Maison15,200,100;
+N,Maison16,450,200;
